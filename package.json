@@ -1,0 +1,53 @@
+{
+    "name": "python-starter-pack",
+    "displayName": "Python Starter Pack by Kaziamov",
+    "version": "1.0",
+    "description": "This pack contains my favorite extensions. I hope it will be helpful to start coding with Python",
+    "icon": "logo.png",
+    "repository": "https://github.com/kaziamov/python-starter-pack-vscode-extention",
+    "publisher": "kaziamov",
+    "license": "MIT License",
+    "galleryBanner": {
+      "color": "#162d4f",
+      "theme": "dark"
+    },
+    "engines": {
+      "vscode": "^1.77.3"
+    },
+    "categories": [
+      "Extension Packs",
+      "Programming Languages"
+    ],
+    "keywords": [
+      "kaziamov",
+      "python"
+    ],
+    "extensionPack": [
+        "alefragnani.project-manager",
+        "ms-python.vscode-pylance",
+        "ms-python.python",
+        "ms-python.isort",
+        "KevinRose.vsc-python-indent",
+        "njpwerner.autodocstring",
+        "thamaraiselvam.remove-blank-lines",
+        "plibither8.remove-comments",
+        "cweijan.vscode-database-client2",
+        "ms-azuretools.vscode-docker",
+        "ms-vscode-remote.remote-containers",
+        "samuelcolvin.jinjahtml",
+        "WyattFerguson.jinja2-snippet-kit",
+        "batisteo.vscode-django",
+        "junstyle.vscode-django-support",
+        "shamanu4.django-intellisense",
+        "tamasfe.even-better-toml",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "VisualStudioExptTeam.intellicode-api-usage-examples",
+        "docsmsft.docs-markdown",
+        "mdickin.markdown-shortcuts",
+        "ritwickdey.LiveServer",
+        "ms-vscode.makefile-tools",
+        "ionutvmi.path-autocomplete",
+        "ms-vscode-remote.remote-wsl",
+        "rpinski.shebang-snippets"
+    ]
+  }
